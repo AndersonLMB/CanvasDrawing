@@ -116,6 +116,7 @@
     <Content Include="Script\Tool\alerttool.js" />
     <Content Include="Script\Tool\drawLine.js" />
     <Content Include="Style\bootstrap.css" />
+    <Content Include="Style\Default.css" />
     <Content Include="Template\tools.html" />
     <Content Include="Web.config" />
   </ItemGroup>

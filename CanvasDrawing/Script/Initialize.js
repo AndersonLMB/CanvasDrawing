@@ -7,13 +7,10 @@ require.config({
         alert: 'Tool/alerttool',
         basealert: 'alert',
         drawLine: 'Tool/drawLine',
-        setting:'Env/setting'
+        setting: 'Env/setting'
     }
 });
-
-
-
-require(['jquery', 'alert','basealert','setting','drawLine'], function ($) {
+require(['jquery', 'alert', 'basealert', 'setting', 'drawLine'], function ($) {
 
 });
 
